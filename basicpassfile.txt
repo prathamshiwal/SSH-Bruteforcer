@@ -1,0 +1,10 @@
+helloworld
+123
+12345
+qwertyuiop
+qwerty
+anotherpassword
+test123
+superstrongpassword
+msfadmin
+root123
